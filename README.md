@@ -1,2 +1,3 @@
 # odin-recipes
-this will work. 
+This project is about my favorite recipes.
+this will work.
